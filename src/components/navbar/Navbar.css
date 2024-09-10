@@ -1,0 +1,58 @@
+.T{
+  
+  color: blueviolet;
+  height: 50px;
+  width: 50px;
+  margin-left: 200px;
+  margin-top: 0px;
+  border-radius: 50%;
+  text-align: center;
+  font-family: "Prompt", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  
+  
+  }
+
+.parent{
+    display: flex;
+    
+}
+.menu{
+    display: flex;
+    margin-top: 33px;
+    color: white;
+    margin-left: 600px;
+}
+.m1{
+    margin-right: 50px;
+}
+.m1:hover{
+    color: red;
+    border-bottom: 3px solid;
+}
+.m2{
+    margin-right: 50px;
+}
+.m2:hover{
+    color: red;
+    border-bottom: 3px solid;
+}
+.m3{
+    margin-right: 50px;
+}
+.m3:hover{
+    color: red;
+    border-bottom: 3px solid;
+}
+.m4{
+    margin-right: 50px;
+}
+.m4:hover{
+    color: red;
+    border-bottom: 3px solid;
+}
+.b3{
+    margin-top: 25px;
+    margin-left: 100px;
+}

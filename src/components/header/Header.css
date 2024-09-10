@@ -1,0 +1,55 @@
+.parent2{
+    margin-top: 100px;
+    display: flex;
+}
+.img{
+  height: 350px;
+  width: 350px;
+    
+    border-radius: 50%;
+    border: 5px solid rgb(8, 122, 199);
+}
+.img:hover{
+    border: 10px solid rgb(55, 176, 206) ;
+}
+.child1{
+    display: flex;
+    
+}
+.img2{
+    margin-left: 150px;
+   
+}
+.s1{
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.bold{
+  
+        font-family: "Merriweather", serif;
+        font-weight: 900;
+        font-style: normal;
+        color: rgb(250,250,250);
+        margin-top: 5px;
+      
+
+}
+.bold2{
+    font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+  color: rgb(250, 250, 250);
+  margin-top: 5px;
+}
+.a {
+    background-color: brown;
+    border: 0px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect */
+  .a:hover {
+    background-color: red;
+  }

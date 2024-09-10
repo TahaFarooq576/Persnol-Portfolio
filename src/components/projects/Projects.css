@@ -1,0 +1,9 @@
+.contain{
+    
+    height: auto;
+    width: 1200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    display: flex;
+    margin-top: 50px;
+}
